@@ -1,4 +1,4 @@
-package com.yyn.entity;
+package com.yyn.utils;
 
 /**
  * 消息常量

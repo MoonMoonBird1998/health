@@ -1,10 +1,10 @@
 package com.yyn.controller;
 
 import com.alibaba.dubbo.config.annotation.Reference;
-import com.yyn.entity.MessageConstant;
-import com.yyn.entity.PageResult;
-import com.yyn.entity.QueryPageBean;
-import com.yyn.entity.Result;
+import com.yyn.utils.MessageConstant;
+import com.yyn.utils.PageResult;
+import com.yyn.utils.QueryPageBean;
+import com.yyn.utils.Result;
 import com.yyn.pojo.CheckItem;
 import com.yyn.service.CheckItemService;
 import org.springframework.web.bind.annotation.*;

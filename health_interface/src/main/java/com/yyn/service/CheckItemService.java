@@ -1,7 +1,7 @@
 package com.yyn.service;
 
-import com.yyn.entity.PageResult;
-import com.yyn.entity.QueryPageBean;
+import com.yyn.utils.PageResult;
+import com.yyn.utils.QueryPageBean;
 import com.yyn.pojo.CheckItem;
 
 import java.util.List;
